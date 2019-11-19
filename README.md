@@ -1,2 +1,3 @@
 # SNAKE
-game 
+
+gioco dello snake realizzato in html con javascript 
